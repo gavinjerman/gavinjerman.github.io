@@ -1,0 +1,17 @@
+name: jermware
+title: jermware
+description: Software Developer
+theme: jekyll-theme-cayman
+permalink: /:name
+plugins:
+    - jekyll-feed
+    - jekyll-redirect-from
+defaults:
+    -
+        scope:
+            path: ""
+            type: posts
+        values:
+            layout: default
+            author: jermware
+            permalink: /:title
