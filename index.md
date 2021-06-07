@@ -2,7 +2,7 @@
 layout: default
 ---
 
-...[2021-06007] in the meantime, take a look at [jermware](https://jermware.net)
+...in the meantime, take a look at [jermware](https://jermware.net)
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
