@@ -2,7 +2,8 @@
 layout: default
 ---
 
-...in the meantime, take a look at [jermware](https://jermware.net)
+...in the meantime, take a look at my software development site [jermware.net](https://jermware.net)
+<span style="font-size: 0;"><a rel="me" href="https://mstdn.social/@gavinjerman">Mastodon</a> </span>
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
