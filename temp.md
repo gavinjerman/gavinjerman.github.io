@@ -4,4 +4,4 @@ permalink: /temp/
 published: true
 ---
 
-[temporary](https://clcstriders-runningclub.co.uk/)
+[temp](https://clcstriders-runningclub.co.uk/)
